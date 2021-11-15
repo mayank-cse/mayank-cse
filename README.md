@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a second year student, currently in my third semester, pursuing B.Tech in Computer Science at VIT Chennai. I am a _disciplined_ and `dedicated` student with a zeal to work, learn and gain professional experience. I have my interest in **Cloud Computing**.
+![MAYANK GUPTA](..desktop/Git/me.jpg)
+
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=mayank-cse&show_icons=true&theme=tokyonight" 
+/>
