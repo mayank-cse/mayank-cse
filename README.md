@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mayankgupta" target="blank"><img src="https://img.shields.io/twitter/follow/mayankgupta?logo=twitter&style=for-the-badge" alt="mayankgupta" /></a> </p> -->
 
-<img align="center" src="https://www.brainvire.com/wp/wp-content/uploads/2021/06/Cloud-banner.gif"/>
+<img align="RIGHT" src="https://media2.giphy.com/media/Y2vbskuBcyTIBXXbJx/giphy.gif?cid=790b76114dff1034cc786747e6b31213da32da5ca139bb8d&rid=giphy.gif&ct=g"/>
 
 ## I'm a Computer Science and Engineering Student  
 
