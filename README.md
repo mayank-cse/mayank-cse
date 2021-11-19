@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mayank Gupta
 <h3 align="center">A passionate Cloud Computer from India</h3>
-<p align="center"> <img src="https://pbs.twimg.com/card_img/1461077836333297669/SQkpf99b?format=jpg&name=900x900" alt="mayank-cse" /> </p>
+<p align="center"> <img src="https://media2.giphy.com/media/NhST7EyOZmrCZEW5OZ/giphy.gif?cid=790b76118c69c59fda5142d1b114ba5eb153a79962255565&rid=giphy.gif&ct=g" alt="mayank-cse" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-cse&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-cse" /> </p>
 <!-- 
