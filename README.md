@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mayank Gupta
 <!-- <h3 align="center">A passionate Cloud Computer from India</h3> -->
-<img align="center" src="/Mayank Gupta.mpv4"/>
-<p align="center"> <img src="https://media2.giphy.com/media/NhST7EyOZmrCZEW5OZ/giphy.gif?cid=790b76118c69c59fda5142d1b114ba5eb153a79962255565&rid=giphy.gif&ct=g" alt="mayank-cse" /> </p>
+<img align="center" src="https://export-download.canva.com/RfQHM/DAEwLLRfQHM/373/0/0001-12819735112.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20211121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211121T085854Z&X-Amz-Expires=86491&X-Amz-Signature=d39b946182d72362fda9a8825c55d4c0b399bc74f91e0bf9dcdc8a35b0328947&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Mayank%2520Gupta.jpg&response-expires=Mon%2C%2022%20Nov%202021%2009%3A00%3A25%20GMT"/>
+<!-- <p align="center"> <img src="https://media2.giphy.com/media/NhST7EyOZmrCZEW5OZ/giphy.gif?cid=790b76118c69c59fda5142d1b114ba5eb153a79962255565&rid=giphy.gif&ct=g" alt="mayank-cse" /> </p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-cse&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-cse" /> </p>
 <!-- 
