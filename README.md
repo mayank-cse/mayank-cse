@@ -1,8 +1,6 @@
 # Hi 👋, I'm Mayank Gupta
-<!-- <h3 align="center">A passionate Cloud Computer from India</h3> -->
-<img align="center" src="https://www.canva.com/design/DAEwLLRfQHM/share/preview?token=U6v-u4XOjNFh2elnEhrTlQ&role=EDITOR&utm_content=DAEwLLRfQHM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"/>
-<!-- <p align="center"> <img src="https://media2.giphy.com/media/NhST7EyOZmrCZEW5OZ/giphy.gif?cid=790b76118c69c59fda5142d1b114ba5eb153a79962255565&rid=giphy.gif&ct=g" alt="mayank-cse" /> </p> -->
 
+<img align="center" src="/BannerMG.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-cse&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-cse" /> </p>
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank-cse" alt="mayank-cse" /></a> </p>
@@ -39,4 +37,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-cse&show_icons=true&locale=en&layout=compact" alt="mayank-cse" /></p>
 
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mayank-cse&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/mayank-cse/github-readme-activity-graph)
+
