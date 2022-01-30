@@ -31,11 +31,11 @@
 ### Languages and Tools:
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mayank-cse&show_icons=true&locale=en" alt="mayank-cse" /></p>
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mayank-cse&show_icons=true&locale=en" alt="mayank-cse" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-cse&" alt="mayank-cse" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-cse&show_icons=true&locale=en&layout=compact" alt="mayank-cse" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&custom_title=mayank-cse's%20Activity%20graph%20&hide_border=true)](https://github.com/mayank-cse/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&custom_title=mayank-cse's%20Activity%20graph%20&hide_border=true)](https://github.com/mayank-cse/github-readme-activity-graph) -->
 
