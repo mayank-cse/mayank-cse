@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 
 ## **About Me:**
+Chatbot Developer Intern [@Dewiride Technologies](https://jd-bots.com/) || Ex-.NET Developer Intern [@LG Electronics](https://www.lg.com/in) || Teaching Assistant [@Coding Ninja](https://www.codingninjas.com/) || C# Backend Developer  || Full-Stack Web Developer || Bot Building 
+
 Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p><br>
 
